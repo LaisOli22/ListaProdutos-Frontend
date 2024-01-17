@@ -1,0 +1,36 @@
+{
+  "produtos": [
+    {
+      "id": 0,
+      "name": "banana"
+    },
+    {
+      "id": 1,
+      "name": "maça"
+    },
+    {
+      "id": 2,
+      "name": "morango"
+    },
+    {
+      "id": 3,
+      "name": "manga"
+    },
+    {
+      "id": "616d",
+      "name": "melancia"
+    },
+    {
+      "id": "b97d",
+      "name": "ameixa"
+    },
+    {
+      "id": "a70d",
+      "name": "abacate"
+    },
+    {
+      "id": "db3c",
+      "name": "figo"
+    }
+  ]
+}
